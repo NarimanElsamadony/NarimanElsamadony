@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NarimanElsamadony
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Udacity Machine Learning Nanodegree
-- 💞️ I’m looking to collaborate on developing machine learning algoruthms to solve world problems
+- 👀 I’m interested in Machine Learning, Data science and AI
+- 💞️ I’m looking to exploit machine learning algorithms to solve real-world problems
 - 📫 reach me on narimanmamdouh7@gmail.com
 
 <!---
